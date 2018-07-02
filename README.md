@@ -7,7 +7,7 @@ Step to perform.
 3. Change the WKAppBundleIdentifier of apple watch extension target to  "(main app bundler).watchkitapp"
 4. Run the app
 
-![Demo](https://imgur.com/a/I0ojnFI)
+![Demo](https://i.imgur.com/NaO82Yh.png)
 
 
 
